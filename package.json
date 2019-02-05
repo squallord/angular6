@@ -1,18 +1,22 @@
 {
-  "name": "angular",
+  "name": "zzmimqpw.github",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@angular/common": "^7.0.1",
-    "@angular/compiler": "^7.0.1",
-    "@angular/core": "^7.0.1",
-    "@angular/forms": "^7.0.1",
-    "@angular/platform-browser": "^7.0.1",
-    "@angular/platform-browser-dynamic": "^7.0.1",
-    "@angular/router": "^7.0.1",
-    "core-js": "^2.5.7",
-    "rxjs": "^6.3.3",
-    "zone.js": "^0.8.26"
+    "@angular/common": "7.2.3",
+    "@angular/compiler": "7.2.3",
+    "@angular/core": "7.2.3",
+    "@angular/forms": "7.2.3",
+    "@angular/platform-browser": "7.2.3",
+    "@angular/platform-browser-dynamic": "7.2.3",
+    "@angular/router": "7.2.3",
+    "@types/jasmine": "2.8.16",
+    "@types/jasminewd2": "2.0.6",
+    "@types/node": "8.9.5",
+    "angular-in-memory-web-api": "^0.8.0",
+    "core-js": "2.6.3",
+    "rxjs": "6.4.0",
+    "zone.js": "0.8.29"
   },
   "scripts": {
     "ng": "ng",
